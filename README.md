@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Khanna</h1>
-<h3 align="center">An engineer at heart driven by a passion for building real-world solutions using hardware and software.</h3>
+<h3 align="center">An engineer at heart driven by a passion for building real-world solutions using hardware and software. I am currently pursuing a degree in Computer Engineering at the University of Illinois at Urbana-Champaign. I am particularly enthusiastic about exploring the digital design industry through FPGA/ASIC Design, Computer Architecture, AI acceleration, and embedded systems development. My technical interests span hardware-software co-design, RTL design + verification with SystemVerilog and UVM, and optimizing compute pipelines for real-time applications. I aim to contribute meaningfully to cutting-edge innovations in low-latency and high-performance digital systems.</h3>
 
 - 📫 How to reach me **sachin.khanna135@gmail.com**
 
