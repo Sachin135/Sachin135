@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Sachin Khanna</h1>
-<h3 align="center">I'm a Computer Engineering student at the University of Illinois at Urbana-Champaign with a strong focus on low-latency digital system design across FPGA/ASIC development, computer architecture, and AI acceleration. My technical interests center on hardware/software co-design, RTL design and verification using SystemVerilog, VHDL, and UVM, and architecting digital systems optimized for real-time, latency-critical workloads.</h3>
+<h3 align="center">I'm a Computer Engineering student at the University of Illinois at Urbana-Champaign with a strong focus on low-latency digital system design across FPGA/ASIC development, computer architecture, and AI acceleration. My technical interests center on hardware/software co-design, RTL design and verification using SystemVerilog, VHDL, and UVM, and architecting digital systems optimized for real-time, latency-critical workloads.
+
+Check out my most recent project: https://shahdev.me/EOHFPGA/index.html</h3>
 
 - 📫 How to reach me **sachin.khanna135@gmail.com**
 
